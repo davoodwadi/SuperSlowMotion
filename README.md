@@ -12,5 +12,5 @@ pip install jupyter
 ```bash
 jupyter lab
 ```
-2. open superSlowMotion.ipynb
+2. Open superSlowMotion.ipynb
 3. Follow the instructions in the notebook.
